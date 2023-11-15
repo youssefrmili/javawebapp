@@ -32,7 +32,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="#">Web App for Developers</a>
+            <a class="navbar-brand" href="#">Web App </a>
         </div>
         <div class="navbar-collapse collapse">
             <form class="navbar-form navbar-right" role="form">
@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Projet Devsecops</h1>
-        <p>Réalisé par : </p>
+        <p>realiser par: </p>
         <ul>
           <li>Youssef</li>
           <li>Iheb</li>
@@ -67,7 +67,7 @@
     <hr>
 
     <footer>
-        <p>&copy; Company 2014</p>
+        <p>TEKUP</p>
     </footer>
 </div> <!-- /container -->
 
