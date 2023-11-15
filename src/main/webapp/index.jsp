@@ -66,9 +66,7 @@
 
     <hr>
 
-    <footer>
-        <p>TEKUP</p>
-    </footer>
+ 
 </div> <!-- /container -->
 
 
