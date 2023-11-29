@@ -51,13 +51,10 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Projet Devsecops</h1>
-        <p>realiser par: </p>
+        <h1>Devsecops project</h1>
+        <p>realized by par: </p>
         <ul>
           <li>Youssef</li>
-          <li>Iheb</li>
-          <li>Oussema</li>
-          <li>Amine</li>
         </ul>  
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
