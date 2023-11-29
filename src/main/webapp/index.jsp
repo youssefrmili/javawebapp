@@ -52,7 +52,7 @@
 <div class="jumbotron">
     <div class="container">
         <h1>Devsecops project</h1>
-        <p>realized by par: </p>
+        <p>realized by : </p>
         <ul>
           <li>Youssef Rmili</li>
         </ul>  
