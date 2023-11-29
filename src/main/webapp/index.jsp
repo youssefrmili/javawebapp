@@ -54,7 +54,7 @@
         <h1>Devsecops project</h1>
         <p>realized by par: </p>
         <ul>
-          <li>Youssef</li>
+          <li>Youssef Rmili</li>
         </ul>  
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
