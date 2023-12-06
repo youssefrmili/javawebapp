@@ -55,6 +55,9 @@
         <p>realized by : </p>
         <ul>
           <li>Youssef Rmili</li>
+          <li>Aouissaoui Mohamed Amine</li>
+          <li>Ghodhbeni Oussema </li>
+          <li>Belhsan Iheb</li>    
         </ul>  
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
